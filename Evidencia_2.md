@@ -1,8 +1,8 @@
-#Evidencia 2
+# **Evidencia 2**
 
-##Se convierte la base de datos no estructurada en un modelo entidad-relación, representada con un diagrama entidad-relación.
+## **Se convierte la base de datos no estructurada en un modelo entidad-relación, representada con un diagrama entidad-relación**
 
-###En el diagrama se muestra las entidades, atributos, dominio y relación 
+### **En el diagrama se muestra las entidades, atributos, dominio y relación**
 
 ```mermaid
 
